@@ -15,8 +15,8 @@
 # Introdução
   Atividadee teve o objetivo de fazer os alundos desenvolverem de forma criativa e unica suas habilidades fazendo um cardapio sem o apoio do professor.
 
-# Sites urilizados 
-  Google
+# Sites utilizados 
+  Html Progressivo e Google fotos
 
 # Tecnologias-utilizadas
   Github, Visual Studio, Html 15 e Css3
