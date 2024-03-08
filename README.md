@@ -14,7 +14,7 @@
 
 
 # Introdução
-  Atividadee teve o objetivo de fazer os alundos desenvolverem de forma criativa e unica suas habilidades fazendo um cardapio sem o apoio do professor.
+  Atividade teve o objetivo de fazer os alundos desenvolverem de forma criativa e unica suas habilidades fazendo um cardapio sem o apoio do professor.
 
 # Sites utilizados 
   Html Progressivo e Google fotos
