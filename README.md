@@ -1,5 +1,7 @@
 # cardapio👩‍🍳
 
+![cardapio](https://github.com/SarahLSilva/cardapio/assets/140835668/436fdebf-bc44-407c-ad12-5050f2d7a1f9)
+
 # Índice✨
 
 * [Introdução](#introdução)
