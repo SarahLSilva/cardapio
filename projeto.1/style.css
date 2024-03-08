@@ -1,0 +1,94 @@
+
+body{
+    margin: 0;
+}
+p {
+    line-height: 50px;
+    font-size: 20px;
+    position: relative;
+    color: rgb(1, 7, 12);
+}
+
+body {
+    background: #ffffff url("img/ogresize.jpg") no-repeat right top fixed;
+    background-size: 100%;
+}
+
+.main {
+    background-color: rgba(179, 205, 226, 0.8);
+    border-radius: 5%;
+    color: black;
+    border: double 10px rgb(255, 255, 255);
+    width: 50vw;
+    height: 216vh;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    margin: 5px 4em auto;
+
+}
+h1{
+    font-size: 70px;
+    font-family: 'Montserrat';
+}
+.precos{
+    font-size: 20px;
+    font-family: 'Montserrat';
+    line-height: 20px;
+}
+.subtitulo{
+    font-size: 26px;
+    font-family: 'Montserrat';
+    line-height: 20px;
+}
+.itens{
+    font-size: 20px;
+    font-family: 'Montserrat';
+    line-height: 20px;
+}
+.frio{
+    font-size: 20px;
+    font-family: 'Montserrat';
+    line-height: 20px;
+}
+.contato{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -170px;
+}
+img{
+    position: absolute;
+    margin-left: 360px;
+    margin-top: -770px;
+    width: 230px;
+}
+#picole{
+    width: 180px;
+}
+.casquinha{
+   position : absolute;
+    margin-left: -150px;
+    margin-top: 568px;
+    width: 40px;
+}
+.picole{
+    position: absolute;
+    margin-left: -130px;
+    margin-top: 860px;
+    max-width: 70%;
+    max-height: 70%;
+
+}
+.code{
+    position : absolute;
+    margin-left: 80px;
+    margin-top: 1100px;
+    width: 100px;
+}
+#code{
+    width: 110px;
+}
